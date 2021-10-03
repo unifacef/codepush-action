@@ -1,6 +1,6 @@
 # CodePush Action for GitHub (Legacy)
 
-This Action for [appcenter codepush](https://github.com/microsoft/appcenter-cli) enables arbitrary actions with the `appcenter` command-line client.
+This Action for [appcenter codepush](https://github.com/microsoft/appcenter-cli) enables arbitrary actions with the `appcenter` command-line client. <br>
 `appcenter-cli@2.1.0`
 
 ## Inputs
@@ -47,5 +47,5 @@ The Dockerfile and associated scripts and documentation in this project are rele
 
 
 ### Credits
-Thanks to [Jeremy Shore](https://github.com/w9jds) for the firebase-action repo.
-Torked from NishanthShankar/codepush-action
+Thanks to [Jeremy Shore](https://github.com/w9jds) for the firebase-action repo. <br>
+Forked from NishanthShankar/codepush-action.
