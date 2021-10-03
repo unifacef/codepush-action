@@ -1,6 +1,7 @@
-# GitHub Actions for Firebase
+# CodePush Action for GitHub (Legacy)
 
 This Action for [appcenter codepush](https://github.com/microsoft/appcenter-cli) enables arbitrary actions with the `appcenter` command-line client.
+`appcenter-cli@2.1.0`
 
 ## Inputs
 
@@ -32,7 +33,7 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Deploy to Codepush
-        uses: NishanthShankar/codepush-action@master
+        uses: unifacef/codepush-action-legacy@master
         with:
           args: release-react -d Production
         env:
@@ -47,3 +48,4 @@ The Dockerfile and associated scripts and documentation in this project are rele
 
 ### Credits
 Thanks to [Jeremy Shore](https://github.com/w9jds) for the firebase-action repo.
+forked from NishanthShankar/codepush-action
