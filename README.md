@@ -48,4 +48,4 @@ The Dockerfile and associated scripts and documentation in this project are rele
 
 ### Credits
 Thanks to [Jeremy Shore](https://github.com/w9jds) for the firebase-action repo.
-forked from NishanthShankar/codepush-action
+Torked from NishanthShankar/codepush-action
